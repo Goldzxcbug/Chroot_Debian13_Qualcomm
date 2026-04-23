@@ -77,6 +77,7 @@ Debian_rootfs.tar.gz 下载：
 - Redmi K60
 - Redmi Note 12 Turbo
 - Xiaomi Pad 7 Pro
+- Xiaomi Pad 8 Pro
 - 拯救者 Y700 4代
 ---
 
