@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
 
-if ! su -c "id -u" 2>/dev/null | grep -q "^0$"; then
-    echo "❌ 需要 root 权限才能运行此脚本，请确保设备已 root 并授予 Termux root 权限。"
-    exit 1
-fi
-
 # 检测依赖 
 # pkg install pulseaudio sshpass openssh grep gawk coreutils x11-repo -y && pkg install termux-x11 -y
 # 上面是安装示例
